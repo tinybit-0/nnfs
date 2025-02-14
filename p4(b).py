@@ -7,9 +7,9 @@ X =       [[1, 2, 3, 2.5],
 
 
 class layer_dense:
-    def __init__(self, n_inp, n_neu):
-        self.weights = 0.1*np.random.randn(n_inp, n_neu)
-        self.biases = np.zeros((1, n_neu))
+    def __init__(self, number_of_inputs, number_of_neurons):
+        self.weights = 0.1*np.random.randn(number_of_inputs, number_of_neurons)
+        self.biases = np.zeros((1, number_of_neurons))
     def forward(self, inputs):
         self.output = np.dot(inputs, self.weights) + self.biases
 

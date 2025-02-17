@@ -1,0 +1,28 @@
+
+Basic python: list comprehension and class inheritance, loops, functions, classes
+
+Basic Maths:
+1) derivatives and integrals
+2) vectors  and matrices
+3) basics of prabability
+
+Recommended book: Why machines learn by anil ananthaswamy 
+Recommended course: Andrew Ng's machine learning specialization course on coursera
+
+Deep learning:
+
+	Andrew Ng's deep learning specialization
+	
+	Andrej Karpathy's YT
+	
+	Stanford cs25 series: for transformer architecture on YT
+	
+	Understanding Deep learning by Simon J. D. Prince
+	
+	DO PROJECTS!! with Nummpy, Pandas and Matplotlib
+	
+	Frameworks: PyTorch, Tensorflow and Jax
+	
+	Use Kaggle
+	
+	REIMPLEMENTING A PAPER

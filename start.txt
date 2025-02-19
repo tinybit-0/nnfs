@@ -26,3 +26,17 @@ Deep learning:
 	Use Kaggle
 	
 	REIMPLEMENTING A PAPER
+
+
+
+
+https://youtu.be/qNxrPri1V0I?si=QC-JMdSgSV5Vi01B
+
+1. Jupyter notebooks
+2. Programming fundamentals
+• Basic syntax (indentation rules, comments)
+• Variables, math, if/else, loops, printing
+• Data types (strings, ints, floats, booleans, lists, dictionaries)
+• Functions and classes/objects
+• Modules, packages and importing
+3. Pandas Tutorial

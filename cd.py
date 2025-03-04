@@ -1,6 +1,6 @@
 import numpy as np
 np.random.seed(0)
-
+ 
 #https://cs231n.github.io/neural-networks-case-study/
 def create_data(points, classes) :
     X = np.zeros((points*classes, 2))
